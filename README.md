@@ -14,6 +14,17 @@ This project bridges the gap between technical cryptographic security and grassr
 
 ---
 
+## 🌐 Interledger Foundation Alignment
+
+This project directly supports the Interledger Foundation's mission to **build an open, inclusive, and decentralized financial internet for the underserved.** By establishing localized cybersecurity protocols for informal economy fintech users in West Africa, we lower the barrier to entry for ILP adoption and Web Monetization standards.
+
+**Key Alignment Points:**
+- **Financial Inclusion:** Equipping informal economy participants with the knowledge to securely adopt decentralized payment networks.
+- **Open Standards Advocacy:** Promoting ILP as a trust-verifiable, fraud-resistant alternative to centralized payment routing.
+- **Capacity Building:** Creating educational frameworks that enable grassroots economic actors to participate in global financial interoperability.
+
+---
+
 ## 📖 Curriculum Architecture
 
 ### 📁 Module 1: Foundations of Digital Sovereignty & Fintech
@@ -37,6 +48,12 @@ This repository is an open-source initiative designed for technical practitioner
 1. **Localization:** Translate curriculum modules into regional languages and dialects to expand grassroots utility.
 2. **Threat Updates:** Submit new, observed fintech fraud vectors occurring across West African frontline markets.
 3. **Infrastructure Audits:** Review and optimize the underlying technical security guidelines.
+4. **ILP Integration:** Contribute case studies on how decentralized routing protocols can mitigate the threats identified in Modules 1–2.
+
+---
+
+## 🤝 Code of Conduct
+We are committed to building a welcoming and inclusive community. All contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
 
 ---
 
